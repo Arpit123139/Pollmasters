@@ -16,11 +16,16 @@ Moreover, our proposed system would enable election officials to manage crowds m
 ## Code Execution Instruction:
   There are three part of our solution
   1-Frontend Part
+  
     To run the frontend part first clone the repo and then run the command npm install and then npm start --force then the  website runs on PORT 3000 
+    
   2-Backend
+  
     To run the backend first do npm install the dotenv should not be included but we are including it for your convienience just run the command npm install 
     then the command npm start so the backend started running on PORT 4000
+    
   3- ML Model for face detection
+  
       To run this just cone the repo and run the command pip install -r requirements.txt
   
  *The Repository must contain your **Execution Plan PDF**.
